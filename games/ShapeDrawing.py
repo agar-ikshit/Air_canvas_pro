@@ -186,8 +186,8 @@ def run_shape_drawing(level_limit=4):
 
         draw_accuracy_meter(img, accuracy)
         draw_text(img, f"Level {current_level}/{level_limit}", (30, 50), GREEN)
-        draw_text(img, f"Score: {score.score}", (30, 90), BLUE)
-        draw_text(img, f"Jitter: {current_jitter:.2f}px", (30, 160), ORANGE)
+        draw_text(img, f"Score: {score.score}", (30, 100), BLUE)
+        draw_text(img, f"Jitter: {current_jitter:.2f}px", (30, 190), ORANGE)
 
         cv2.imshow(" Shape Drawing", img)
         key = cv2.waitKey(30) & 0xFF

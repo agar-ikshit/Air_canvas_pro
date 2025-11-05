@@ -190,21 +190,25 @@ def run_connect_dots():
         key = cv2.waitKey(30) & 0xFF
 
         if key in [ord('n'), 32]:
-            resampled_path = resample_points(drawn_path, step=5)
-            dense_points = interpolate_path(points)
-            accuracy = calculate_accuracy(resampled_path, dense_points)
-            score.add_points(int(accuracy))
-            print(f"Level {current_level} accuracy: {accuracy}%")
-
+            if drawn_path:
+                    resampled_path = resample_points(drawn_path, step=5)
+                    dense_points = interpolate_path(points)
+                    accuracy = calculate_accuracy(resampled_path, dense_points)
+                    score.add_points(int(accuracy))
+                    print(f"Level {current_level} accuracy: {accuracy}%")
+                
+                # Move to next level
             current_level += 1
             if current_level > level_limit:
                 break
 
+                # Prepare next level
             points = generate_shape(current_level)
             drawn_path = []
             last_pos = None
             accuracy = 0
 
+                # Show "Next Level" screen for 1 second
             img[:] = 0
             draw_text(img, f"Starting Level {current_level}...", (200, 300), GREEN, 1.0, 2)
             cv2.imshow("✏️ Connect the Dots (Drawing)", img)

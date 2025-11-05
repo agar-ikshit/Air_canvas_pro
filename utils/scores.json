@@ -177,5 +177,37 @@
         "level": 1,
         "avg_reaction_time": null,
         "time_elapsed": 57.12
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 238,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 34.96
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 228,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 51.56
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 23.29
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 23.74
     }
 ]

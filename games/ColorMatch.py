@@ -137,7 +137,7 @@ def run_sequence_color_match(level_limit=3, sequence_length=5):
                 cv2.circle(img, (150, 160), 30, next_color, -1) 
 
             if reaction_times:
-                draw_text(img, f"Last Reaction Time: {reaction_times[-1]:.2f}s", (30, 180), PURPLE, 0.7)
+                draw_text(img, f"Last Reaction Time: {reaction_times[-1]:.2f}s", (30, 200), PURPLE, 0.7)
 
             cv2.imshow("Sequence Color Match", img)
             key = cv2.waitKey(30) & 0xFF
