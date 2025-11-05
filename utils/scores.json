@@ -1,0 +1,181 @@
+[
+    {
+        "player": "Player1",
+        "score": 63,
+        "level": 1,
+        "time_elapsed": 33.2
+    },
+    {
+        "player": "Player1",
+        "score": 78,
+        "level": 1,
+        "time_elapsed": 29.59
+    },
+    {
+        "player": "Player1",
+        "score": 490,
+        "level": 1,
+        "time_elapsed": 30.69
+    },
+    {
+        "player": "Player1",
+        "score": 460,
+        "level": 1,
+        "time_elapsed": 30.73
+    },
+    {
+        "game": "CatchDroplets",
+        "player": "Player1",
+        "score": 20,
+        "level": 1,
+        "time_elapsed": 30.58
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 105,
+        "level": 1,
+        "time_elapsed": 40.98
+    },
+    {
+        "game": "MirrorMatch",
+        "player": "Player1",
+        "score": 240,
+        "level": 1,
+        "time_elapsed": 17.67
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "time_elapsed": 32.53
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "time_elapsed": 26.97
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 113,
+        "level": 1,
+        "time_elapsed": 30.65
+    },
+    {
+        "game": "BalloonPop",
+        "player": "Player1",
+        "score": 420,
+        "level": 1,
+        "time_elapsed": 30.68
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "time_elapsed": 21.37
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 69,
+        "level": 1,
+        "time_elapsed": 41.59
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 141,
+        "level": 1,
+        "time_elapsed": 49.38
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 95,
+        "level": 1,
+        "time_elapsed": 47.82
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 213,
+        "level": 1,
+        "time_elapsed": 45.25
+    },
+    {
+        "game": "CatchDroplets",
+        "player": "Player1",
+        "score": 70,
+        "level": 1,
+        "time_elapsed": 30.76
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 30.03
+    },
+    {
+        "game": "CatchDroplets",
+        "player": "Player1",
+        "score": 70,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 30.7
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 24.24
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 211,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 77.26
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 85,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 62.87
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 316,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 58.86
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 320,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 55.05
+    },
+    {
+        "game": "ShapeDrawing",
+        "player": "Player1",
+        "score": 202,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 57.12
+    }
+]

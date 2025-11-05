@@ -1,0 +1,166 @@
+[
+    {
+        "player": "Player1",
+        "score": 63,
+        "time_elapsed": 33.21,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 78,
+        "time_elapsed": 29.59,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 490,
+        "time_elapsed": 30.7,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 460,
+        "time_elapsed": 30.75,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 20,
+        "time_elapsed": 30.58,
+        "level": 1,
+        "game": "CatchDroplets"
+    },
+    {
+        "player": "Player1",
+        "score": 105,
+        "time_elapsed": 41.0,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 240,
+        "time_elapsed": 17.67,
+        "level": 1,
+        "game": "MirrorMatch"
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 32.53,
+        "level": 1,
+        "game": "SequenceColorMatch"
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 26.98,
+        "level": 1,
+        "game": "SequenceColorMatch"
+    },
+    {
+        "player": "Player1",
+        "score": 113,
+        "time_elapsed": 30.65,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 420,
+        "time_elapsed": 30.68,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 21.38,
+        "level": 1,
+        "game": "SequenceColorMatch"
+    },
+    {
+        "player": "Player1",
+        "score": 69,
+        "time_elapsed": 41.6,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 141,
+        "time_elapsed": 49.38,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 95,
+        "time_elapsed": 47.82,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 213,
+        "time_elapsed": 45.26,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 70,
+        "time_elapsed": 30.77,
+        "level": 1,
+        "game": "CatchDroplets"
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 30.03,
+        "level": 1,
+        "game": "SequenceColorMatch",
+        "avg_reaction_time": 1.961
+    },
+    {
+        "player": "Player1",
+        "score": 70,
+        "time_elapsed": 30.7,
+        "level": 1,
+        "game": "CatchDroplets"
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 24.24,
+        "level": 1,
+        "game": "SequenceColorMatch",
+        "avg_reaction_time": 1.576
+    },
+    {
+        "player": "Player1",
+        "score": 211,
+        "time_elapsed": 77.26,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 85,
+        "time_elapsed": 62.87,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 316,
+        "time_elapsed": 58.87,
+        "level": 1,
+        "avg_reaction_time_sec": 14.59
+    },
+    {
+        "player": "Player1",
+        "score": 320,
+        "time_elapsed": 55.05,
+        "level": 1,
+        "avg_reaction_time_sec": 13.63
+    },
+    {
+        "player": "Player1",
+        "score": 202,
+        "time_elapsed": 57.12,
+        "level": 1,
+        "avg_reaction_time_sec": 14.14
+    }
+]
