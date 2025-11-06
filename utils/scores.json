@@ -209,5 +209,37 @@
         "level": 1,
         "avg_reaction_time": null,
         "time_elapsed": 23.74
+    },
+    {
+        "game": "CatchDroplets",
+        "player": "Player1",
+        "score": 80,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 30.98
+    },
+    {
+        "game": "BalloonPop",
+        "player": "Player1",
+        "score": 420,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 30.71
+    },
+    {
+        "game": "SequenceColorMatch",
+        "player": "Player1",
+        "score": 150,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 23.61
+    },
+    {
+        "game": "ConnectDots",
+        "player": "Player1",
+        "score": 266,
+        "level": 1,
+        "avg_reaction_time": null,
+        "time_elapsed": 43.22
     }
 ]

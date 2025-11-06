@@ -190,5 +190,32 @@
         "level": 1,
         "game": "SequenceColorMatch",
         "avg_reaction_time": 1.539
+    },
+    {
+        "player": "Player1",
+        "score": 80,
+        "time_elapsed": 30.98,
+        "level": 1,
+        "game": "CatchDroplets"
+    },
+    {
+        "player": "Player1",
+        "score": 420,
+        "time_elapsed": 30.71,
+        "level": 1
+    },
+    {
+        "player": "Player1",
+        "score": 150,
+        "time_elapsed": 23.61,
+        "level": 1,
+        "game": "SequenceColorMatch",
+        "avg_reaction_time": 1.534
+    },
+    {
+        "player": "Player1",
+        "score": 266,
+        "time_elapsed": 43.22,
+        "level": 1
     }
 ]
